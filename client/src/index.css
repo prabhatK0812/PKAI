@@ -1,0 +1,27 @@
+/* 2.for google font */
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@100..900&display=swap');
+
+/* 1.adding tailwind css step-3 */
+@import "tailwindcss";
+
+
+/* 3.adding font for entire application */
+*{
+   font-family: "Outfit", sans-serif;
+}
+
+/* 4.Theme(primary) color for the project */
+@theme{
+  --color-primary: #5044E5;
+}
+
+
+/* for creationitem: taki tailwind ht jye element(content) se */
+.reset-tw, .reset-tw *{
+  all:revert !important;
+}
+
+/* for displaying drawer over navigation bar in home page */
+.cl-drawerRoot{
+  z-index: 10;
+}
