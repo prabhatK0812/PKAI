@@ -52,7 +52,7 @@ Start server:
 npm run server
 
 
-Server will run on 👉 http://localhost:3000
+Server will run on 👉 //localhost:3000
 
 3️⃣ Setup Frontend
 cd client
@@ -83,6 +83,3 @@ AI-powered Job Recommendations
 Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
 
-📜 License
-
-This project is licensed under the MIT License.
