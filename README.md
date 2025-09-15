@@ -37,9 +37,11 @@ PK.ai/
 1️⃣ Clone the Repository
 git clone https://github.com/username/pk-ai.git
 cd pk-ai
+
 2️⃣ Setup Backend
 cd server
 npm install
+
 Create .env file in server/ and add:
 PORT=3000
 DATABASE_URL=your_neon_postgres_url
@@ -48,6 +50,7 @@ CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 CLOUDINARY_CLOUD_NAME=your_cloud_name
 CLOUDINARY_API_KEY=your_api_key
 CLOUDINARY_API_SECRET=your_api_secret
+
 Start server:
 npm run server
 
@@ -57,15 +60,18 @@ Server will run on 👉 //localhost:3000
 3️⃣ Setup Frontend
 cd client
 npm install
+
 Create .env file in client/ and add:
 VITE_BASE_URL=http://localhost:3000
 VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
+
 Start frontend:
 npm run dev
 Frontend will run on 👉 http://localhost:5173
 
 🎯 Usage
 Signup/Login using Clerk Auth.
+
 Explore tools:
 ✍️ Generate Articles & Blog Titles
 🖼️ Generate AI Images, Remove Background/Object
