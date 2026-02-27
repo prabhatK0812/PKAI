@@ -6,7 +6,7 @@
   Built using <b>MERN Stack + Clerk + Gemini AI + Clipdrop + Cloudinary + Neon PostgreSQL</b>.
 </p>
 
-🚀 PK.ai – AI SaaS Platform
+🚀 PK.ai – AI SaaS Platform :
 PK.ai is a full-stack AI SaaS application built using the MERN stack + AI APIs.
 It offers multiple powerful AI-driven tools for productivity, content creation, and media editing — all in one platform.
 
