@@ -1,7 +1,7 @@
 <h1 align="center">✨🚀 AI SAAS PLATFORM 🚀✨</h1>
 
 <p align="center">
-  A full-stack AI-powered SaaS web app with <b>content generation</b>, 
+  A full-stack AI-powered SaaS web app with <b>content generation</b>,
   <b>image editing</b>, and <b>resume analysis</b> tools.  
   Built using <b>MERN Stack + Clerk + Gemini AI + Clipdrop + Cloudinary + Neon PostgreSQL</b>.
 </p>
