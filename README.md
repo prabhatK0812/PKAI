@@ -33,12 +33,12 @@ PK.ai/
 │── assets/         # Images, icons, and dummy data
 │── README.md       # Documentation
 
-⚡ Installation & Setup
+⚡ Installation & Setup :
 1️⃣ Clone the Repository
 git clone https://github.com/username/pk-ai.git
 cd pk-ai
 
-2️⃣ Setup Backend
+2️⃣ Setup Backend :
 cd server
 npm install
 
