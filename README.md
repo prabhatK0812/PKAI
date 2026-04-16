@@ -80,7 +80,7 @@ Save creations, like others’ work in Community Section.
 
 
 
-🚀 Future Enhancements
+🚀 Future Enhancements :
 Add Payment Gateway for premium tools
 Advanced Resume Scoring
 AI-powered Job Recommendations
