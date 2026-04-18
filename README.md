@@ -26,7 +26,7 @@ Database: Neon PostgreSQL (serverless)
 AI & Cloud APIs: Gemini AI, Clipdrop API, Cloudinary
 Other Tools: JWT, CORS, Multer, dotenv
 
-📂 Project Structure
+📂 Project Structure :
 PK.ai/
 │── client/         # Frontend (React + Vite + Tailwind + Clerk)
 │── server/         # Backend (Express + PostgreSQL + APIs)
