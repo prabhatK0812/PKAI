@@ -85,7 +85,7 @@ Add Payment Gateway for premium tools
 Advanced Resume Scoring
 AI-powered Job Recommendations
 
-🤝 Contributing
+🤝 Contributing :
 Contributions are welcome!
 Feel free to fork this repo and submit a pull request.
 
