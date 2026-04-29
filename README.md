@@ -19,7 +19,7 @@ It offers multiple powerful AI-driven tools for productivity, content creation, 
 🔹 Responsive UI – Modern, mobile-friendly UI built with React + Tailwind CSS
 🔹 Real-Time Actions – Secure API handling with Express + Clerk Middleware
 
-🛠️ Tech Stack
+🛠️ Tech Stack :
 Frontend: React (Vite), Tailwind CSS, Clerk Auth, Axios
 Backend: Node.js, Express.js, REST APIs, Clerk Middleware
 Database: Neon PostgreSQL (serverless)
