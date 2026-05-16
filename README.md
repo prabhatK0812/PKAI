@@ -38,7 +38,7 @@ PK.ai/
 git clone https://github.com/username/pk-ai.git
 cd pk-ai
 
-2️⃣ Setup Backend :
+2️⃣ Setup Backend ::
 cd server
 npm install
 
